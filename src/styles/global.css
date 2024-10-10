@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: "";
+}
+
+body {
+  background: #b5ddeb;
+  color: #2e2241;
+}
+
+html {
+  --bg-base: #b5ddeb;
+  --bg-second: #ff9338;
+  --bg-menu: #254167;
+
+  --logo-color-red: #ff1514;
+  --logo-color-blue: #00bcff;
+  --logo-color-orange: #ff9338;
+  --logo-color-purple: #2e2241;
+}
